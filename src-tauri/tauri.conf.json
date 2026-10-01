@@ -54,8 +54,7 @@
         "languages": ["Russian"]
       }
     },
-    "macOS": {
-      "minimumSystemVersion": "10.15"
+       "macOS": {
+      "minimumSystemVersion": "10.15",
+      "signingIdentity": "-"
     }
-  }
-}
